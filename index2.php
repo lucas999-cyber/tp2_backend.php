@@ -68,11 +68,6 @@ if ($numero1 >$numero2) {
   // code...
 }
 
-
-
-
-
-
-
-
-  ?>
+?>
+	</body>
+</html>
